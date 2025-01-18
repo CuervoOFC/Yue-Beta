@@ -26,6 +26,7 @@ global.confirmCode = ''
 global.owner = [
   ['5213339577315', 'Propietario 👑', true],
   ['5213318360934', 'Owner ✨️', true],
+  ['5212722801554'],
   ['5493876639332'],
   ['5218715746374'],
   ['573237649689'],
@@ -39,7 +40,7 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.creadorbot = '5213318360934'
+global.creadorbot = '5212722801554'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -47,20 +48,20 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.5'
 global.vs = '2.0.7'
 global.vsJB = '5.0'
-global.nameqr = 'Yue-Bot'
-global.namebot = 'YueBot'
-global.sessions = 'YueSession'
-global.jadi = 'YueJadiBot'
+global.nameqr = 'Hajime-Bot'
+global.namebot = 'HajimeBot'
+global.sessions = 'HajimeSession'
+global.jadi = 'HajimeJadiBot'
 global.yueJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ Yue-Bot ✰⪜'
-global.botname = 'Yue-Bot'
-global.wm = 'Yue-Bot'
+global.packname = '⪛✰ Hajime-Bot ✰⪜'
+global.botname = 'Hajime-Bot'
+global.wm = 'Hajime-Bot'
 global.author = 'Made By Cuervo-Team-Supreme'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ: Yue-Bot'
-global.textbot = 'Yue-Bot • Powered By Cuervo-Team-Supreme'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ: Hajime-Bot'
+global.textbot = 'Hajime-Bot • Powered By Cuervo-Team-Supreme'
 global.moneda = 'COINS'
 global.welcom1 = 'Edita Con !setwelcome'
 global.welcom2 = 'Edita Con !setdespedida'
